@@ -66,10 +66,10 @@ main {
     right: 32%;
 }
 .bat{
-   background-image: url(img/849bfede3a5193c34ab8a00379e64fa2\ 1-1.png);
+   background-image: url(../img/849bfede3a5193c34ab8a00379e64fa2\ 1-1.png);
 }
 .alerq{
-    background-image: url(img/849bfede3a5193c34ab8a00379e64fa2\ 1.png);
+    background-image: url(../img/849bfede3a5193c34ab8a00379e64fa2\ 1.png);
 }
 .heart{
     position: absolute;
